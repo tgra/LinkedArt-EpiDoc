@@ -1,0 +1,205 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "http://sicily.classics.ox.ac.uk/inscription/ISic003927",
+  "type": "HumanMadeObject",
+  "label": "I.Sicily inscription 003927",
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "I.Sicily inscription 003927"
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "filename"
+        }
+      ],
+      "content": "ISic003927"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "TM"
+        }
+      ],
+      "content": null
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "EDR"
+        }
+      ],
+      "content": null
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "EDH"
+        }
+      ],
+      "content": null
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "EDCS"
+        }
+      ],
+      "content": null
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "PHI"
+        }
+      ],
+      "content": "334390"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "URI"
+        }
+      ],
+      "content": "http://sicily.classics.ox.ac.uk/inscription/ISic003927"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "DOI"
+        }
+      ],
+      "content": "10.5281/zenodo.4389383"
+    }
+  ],
+  "classified_as": [],
+  "dimension": [
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "Height"
+        }
+      ],
+      "value": null,
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379100",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      }
+    },
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "Width"
+        }
+      ],
+      "value": null,
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379100",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      }
+    },
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "Depth"
+        }
+      ],
+      "value": null,
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379100",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      }
+    }
+  ],
+  "part": [
+    {
+      "type": "Encounter",
+      "_label": "Last Recorded Location",
+      "took_place_at": [
+        {
+          "type": "Place",
+          "_label": "Lipari",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300008346",
+              "type": "Type",
+              "_label": "Settlement"
+            }
+          ]
+        },
+        {
+          "type": "Place",
+          "_label": "Italy",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300387506",
+              "type": "Type",
+              "_label": "Country"
+            }
+          ]
+        },
+        {
+          "type": "Place",
+          "_label": "Sicily",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300182722",
+              "type": "Type",
+              "_label": "Region"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "encountered": [
+    {
+      "type": "HumanMadeObject",
+      "_label": "I.Sicily inscription 003927",
+      "classified_as": ""
+    }
+  ]
+}
