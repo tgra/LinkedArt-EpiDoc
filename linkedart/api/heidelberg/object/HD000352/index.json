@@ -1,0 +1,163 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD000352",
+  "type": "HumanMadeObject",
+  "label": "Weihinschrift auf Tessera",
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Weihinschrift auf Tessera"
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "URI"
+        }
+      ],
+      "content": "http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD000352"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "TM"
+        }
+      ],
+      "content": "208724"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300404626",
+          "type": "Type",
+          "_label": "localID"
+        }
+      ],
+      "content": "HD000352"
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "http://www.eagle-network.eu/voc/objtyp/lod/276",
+      "type": "Type",
+      "_label": "Tessera"
+    }
+  ],
+  "dimension": [
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "Height"
+        }
+      ],
+      "value": "3.7",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379100",
+        "type": "MeasurementUnit",
+        "_label": ""
+      }
+    },
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "Width"
+        }
+      ],
+      "value": "2.7",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379100",
+        "type": "MeasurementUnit",
+        "_label": ""
+      }
+    },
+    {
+      "type": "Dimension",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "Depth"
+        }
+      ],
+      "value": "0.3",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379100",
+        "type": "MeasurementUnit",
+        "_label": ""
+      }
+    }
+  ],
+  "part": [
+    {
+      "type": "Encounter",
+      "_label": "Last Recorded Location",
+      "took_place_at": [
+        {
+          "type": "Place",
+          "_label": "",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300008346",
+              "type": "Type",
+              "_label": "Settlement"
+            }
+          ]
+        },
+        {
+          "type": "Place",
+          "_label": "",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300387506",
+              "type": "Type",
+              "_label": "Country"
+            }
+          ]
+        },
+        {
+          "type": "Place",
+          "_label": "",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300182722",
+              "type": "Type",
+              "_label": "Region"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "encountered": [
+    {
+      "id": "http://www.eagle-network.eu/voc/objtyp/lod/276",
+      "type": "Type",
+      "_label": "Tessera",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ]
+}
