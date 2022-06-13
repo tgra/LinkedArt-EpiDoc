@@ -2,7 +2,7 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "id": "http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD000745",
   "type": "HumanMadeObject",
-  "label": "Rechtliche Verf\u00fcgung, \u00f6ffentlich auf Tafel",
+  "label": "Rechtliche Verfügung, öffentlich auf Tafel",
   "identified_by": [
     {
       "type": "Name",
@@ -10,7 +10,7 @@
         {
           "id": "http://vocab.getty.edu/aat/300404670",
           "type": "Type",
-          "_label": "Rechtliche Verf\u00fcgung, \u00f6ffentlich auf Tafel"
+          "_label": "Rechtliche Verfügung, öffentlich auf Tafel"
         }
       ]
     },
@@ -69,7 +69,7 @@
       "unit": {
         "id": "http://vocab.getty.edu/aat/300379100",
         "type": "MeasurementUnit",
-        "_label": ""
+        "_label": "cm"
       }
     },
     {
@@ -85,7 +85,7 @@
       "unit": {
         "id": "http://vocab.getty.edu/aat/300379100",
         "type": "MeasurementUnit",
-        "_label": ""
+        "_label": "cm"
       }
     },
     {
@@ -101,7 +101,7 @@
       "unit": {
         "id": "http://vocab.getty.edu/aat/300379100",
         "type": "MeasurementUnit",
-        "_label": ""
+        "_label": "cm"
       }
     }
   ],
@@ -112,7 +112,7 @@
       "took_place_at": [
         {
           "type": "Place",
-          "_label": "",
+          "_label": "Monteleone Sabino",
           "classified_as": [
             {
               "id": "http://vocab.getty.edu/page/aat/300008346",
@@ -123,7 +123,7 @@
         },
         {
           "type": "Place",
-          "_label": "",
+          "_label": "Italien",
           "classified_as": [
             {
               "id": "http://vocab.getty.edu/page/aat/300387506",
@@ -134,7 +134,7 @@
         },
         {
           "type": "Place",
-          "_label": "",
+          "_label": "Lazio",
           "classified_as": [
             {
               "id": "http://vocab.getty.edu/page/aat/300182722",
